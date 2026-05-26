@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mauro Wojcikiewicz | Ingeniería y Desarrollo en ADC Scuderia
 
-<!--
-**MauroWojcikiewicz/maurowojcikiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Liderando la ingeniería técnica y el desarrollo automotriz de alto rendimiento. En **ADC Scuderia**, no adaptamos soluciones; todo el ecosistema y la arquitectura de nuestros proyectos están **construidos desde cero** para garantizar precisión y optimización absoluta.
 
-Here are some ideas to get you started:
+## 🛠 Arquitectura Técnica y Stack
+Todo el despliegue digital y las plataformas de la firma han sido desarrollados con infraestructura moderna:
+* **Frontend & UI:** Next.js y Tailwind CSS para una interfaz de máxima velocidad.
+* **Backend & Datos:** Gestión de bases de datos estructuradas con Supabase.
+* **Prototipado Industrial:** Proyectos CAD/CAM y sistemas de diseño en Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Red Oficial
+* 🌐 **Sitio Web:** [maurowojcikiewicz.com](https://maurowojcikiewicz.com/)
+* 🏎️ **ADC Scuderia:** [adcscuderia.com](https://adcscuderia.com/)
+* 📐 **Portafolio:** [Proyectos en Behance](https://www.behance.net/gallery/249438955/Ingenieria-Automotriz-Mauro-Wojcikiewicz)
