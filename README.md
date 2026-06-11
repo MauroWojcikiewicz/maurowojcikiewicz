@@ -3,7 +3,7 @@
 Liderando la ingeniería técnica y el desarrollo mecánico de competición en **ADC Scuderia**. No adaptamos soluciones preexistentes; todos los componentes mecánicos, sistemas térmicos y diseños industriales de nuestros proyectos están **construidos desde cero** para garantizar precisión, durabilidad y optimización absoluta en la pista y el asfalto.
 
 ## 🛠 Ecosistema Técnico e Ingeniería Computacional
-Especialización en desarrollo avanzado aplicado al sector automotriz de alto rendimiento y mercados internacionales:
+Especialización en desarrollo avanzado aplicado al sector automotriz de alto rendimiento para competiciones en Panama e internacionales:
 * **Modelado Paramétrico (CAD):** Uso avanzado de SolidWorks y AutoCAD para ensamblajes en tres dimensiones de alta complejidad y planos de fabricación.
 * **Ingeniería Asistida (CAE):** Análisis de elementos finitos (FEA) para la simulación de fatiga estructural y resistencia de materiales bajo condiciones extremas.
 * **Manufactura Avanzada (CAM):** Configuración de trayectorias de herramientas para centros de mecanizado CNC de alta precisión.
