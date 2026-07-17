@@ -14,3 +14,4 @@ Especialización en desarrollo avanzado aplicado al sector automotriz de alto re
 * 🏎️ **Firma de Ingeniería:** [adcscuderia.com](https://adcscuderia.com/)
 * 📐 **Portafolio Técnico:** [Proyectos en Behance](https://www.behance.net/gallery/249438955/Ingenieria-Automotriz-Mauro-Wojcikiewicz)
 * 📝 **Análisis e Innovación:** [Artículos en Medium](https://medium.com/)
+* 🌐 **Portal de Ingeniería Avanzada:** [Google Sites](https://sites.google.com/view/maurowojcikiewicz/home)
