@@ -9,9 +9,14 @@ Especialización en desarrollo avanzado aplicado al sector automotriz de alto re
 * **Manufactura Avanzada (CAM):** Configuración de trayectorias de herramientas para centros de mecanizado CNC de alta precisión.
 * **Termodinámica y Fluidos (CFD):** Simulación computacional de flujos para la optimización de sistemas de admisión, escape y transferencia de calor.
 
-## 🔗 Red Oficial y Proyectos
-* 🌐 **Sitio Web Oficial:** [maurowojcikiewicz.com](https://maurowojcikiewicz.com/)
-* 🏎️ **Firma de Ingeniería:** [adcscuderia.com](https://adcscuderia.com/)
-* 📐 **Portafolio Técnico:** [Proyectos en Behance](https://www.behance.net/gallery/249438955/Ingenieria-Automotriz-Mauro-Wojcikiewicz)
-* 📝 **Análisis e Innovación:** [Artículos en Medium](https://medium.com/)
-* 🌐 **Portal de Ingeniería Avanzada:** [Google Sites](https://sites.google.com/view/maurowojcikiewicz/home)
+---
+
+## 🔗 Perfiles Oficiales y Referencias de Ingeniería
+
+* 🌐 **Sitio Web Oficial:** [ADC Scuderia](https://adcscuderia.com/)
+* 👤 **Perfil Profesional:** [Ing. Mauro Wojcikiewicz – ADC Scuderia](https://adcscuderia.com/perfil-profesional-mauro-wojcikiewicz/)
+* ✍️ **Blog Técnico:** [maurowojcikiewicz.com](https://maurowojcikiewicz.com/)
+* 🏢 **Ficha Institucional:** [Crunchbase - Mauro Wojcikiewicz](https://www.crunchbase.com/person/mauro-wojcikiewicz)
+* 🎨 **Portafolio CAD/CAM:** [Behance - Proyecto de Ingeniería](https://www.behance.net/gallery/249438955/Ingenieria-Automotriz-Mauro-Wojcikiewicz)
+* 📊 **Dossier de Metrología (PDF):** [SlideShare - Presentación Técnica](https://es.slideshare.net/slideshow/ingenieria-automotriz-y-diseno-de-alto-rendimiento-mauro-wojcikiewicz/287754278)
+* 📰 **Artículos Técnicos:** [Substack - Mauro Wojcikiewicz](https://maurowojcikiewicz.substack.com/)
