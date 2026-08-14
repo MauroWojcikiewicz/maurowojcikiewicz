@@ -1,4 +1,4 @@
-# Mauro Wojcikiewicz | Ingeniería Automotriz y Diseño de Alto Rendimiento
+# Mauro Wojcikiewicz
 
 Liderando la ingeniería técnica y el desarrollo mecánico de competición en **ADC Scuderia**. No adaptamos soluciones preexistentes; todos los componentes mecánicos, sistemas térmicos y diseños industriales de nuestros proyectos están **construidos desde cero** para garantizar precisión, durabilidad y optimización absoluta en la pista y el asfalto.
 
