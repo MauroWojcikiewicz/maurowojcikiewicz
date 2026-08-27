@@ -11,6 +11,15 @@ Especialización en desarrollo avanzado aplicado al sector automotriz de alto re
 
 ---
 
+## 📚 Publicaciones Técnicas y Artículos de Autoridad
+
+* 🔬 **Metrología y Tolerancias en Blog:** [Metrología Óptica y Rigor de Pista](https://maurowojcikiewicz.com/elementor-219/)
+* 📰 **Boletín en Substack:** [Metrología Óptica y Análisis de Esfuerzos Submicra](https://maurowojcikiewicz.substack.com/p/metrologia-optica-y-analisis-de)
+* ⚙️ **Tribología en Medium:** [Tribología de Motorsport, Tolerancia Submicra y Flujo Térmico](https://medium.com/@mauro-wojcikiewicz/mauro-wojcikiewicz-tribolog%C3%ADa-de-motorsport-tolerancia-submicra-y-din%C3%A1mica-de-flujo-t%C3%A9rmico-en-9d85c750a5a8)
+* 🏎️ **Transmisiones en Medium:** [Dinámica de Cajas de Cambio y Eficiencia de Potencia](https://medium.com/@mauro-wojcikiewicz/a-d%C3%B3nde-se-van-los-caballos-de-fuerza-el-secreto-oculto-en-la-caja-de-cambios-d911870d5530)
+
+---
+
 ## 🔗 Perfiles Oficiales y Referencias de Ingeniería
 
 * 🌐 **Sitio Web Oficial:** [ADC Scuderia](https://adcscuderia.com/)
@@ -19,4 +28,5 @@ Especialización en desarrollo avanzado aplicado al sector automotriz de alto re
 * 🏢 **Ficha Institucional:** [Crunchbase - Mauro Wojcikiewicz](https://www.crunchbase.com/person/mauro-wojcikiewicz)
 * 🎨 **Portafolio CAD/CAM:** [Behance - Proyecto de Ingeniería](https://www.behance.net/gallery/249438955/Ingenieria-Automotriz-Mauro-Wojcikiewicz)
 * 📊 **Dossier de Metrología (PDF):** [SlideShare - Presentación Técnica](https://es.slideshare.net/slideshow/ingenieria-automotriz-y-diseno-de-alto-rendimiento-mauro-wojcikiewicz/287754278)
-* 📰 **Artículos Técnicos:** [Substack - Mauro Wojcikiewicz](https://maurowojcikiewicz.substack.com/)
+* 📝 **Perfil en Medium:** [Mauro Wojcikiewicz en Medium](https://medium.com/@mauro-wojcikiewicz)
+* 📬 **Publicaciones en Substack:** [Substack - Mauro Wojcikiewicz](https://maurowojcikiewicz.substack.com/)
