@@ -30,3 +30,4 @@ Especialización en desarrollo avanzado aplicado al sector automotriz de alto re
 * 📊 **Dossier de Metrología (PDF):** [SlideShare - Presentación Técnica](https://es.slideshare.net/slideshow/ingenieria-automotriz-y-diseno-de-alto-rendimiento-mauro-wojcikiewicz/287754278)
 * 📝 **Perfil en Medium:** [Mauro Wojcikiewicz en Medium](https://medium.com/@mauro-wojcikiewicz)
 * 📬 **Publicaciones en Substack:** [Substack - Mauro Wojcikiewicz](https://maurowojcikiewicz.substack.com/)
+* 🎬 [Precisión y Desarrollo Técnico en ADC Scuderia (Video Short)](https://www.youtube.com/shorts/-_H--j4SXlI)
